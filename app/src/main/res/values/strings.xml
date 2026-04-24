@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notification Monitoring</string>
+    <string name="notification_service_label">Notification Monitor Service</string>
+
+    <!-- Toolbar / labels -->
+    <string name="label_status">Status:</string>
+    <string name="label_package_filter">Package Filter (leave blank for all apps)</string>
+    <string name="label_total_captured">Total captured: %1$d</string>
+    <string name="label_total_captured_zero">Total captured: 0</string>
+    <string name="hint_package_filter">e.g. com.whatsapp</string>
+
+    <!-- Status badges -->
+    <string name="status_idle">● IDLE</string>
+    <string name="status_active">● ACTIVE</string>
+
+    <!-- Buttons -->
+    <string name="btn_start">Start Monitoring</string>
+    <string name="btn_stop">Stop Monitoring</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_grant">Grant Access</string>
+
+    <!-- Permission -->
+    <string name="permission_required_message">⚠ Notification Listener permission is required to monitor notifications.</string>
+
+    <!-- Empty state -->
+    <string name="empty_state_message">No notifications captured yet.\n\nStart monitoring and trigger a notification\nfrom any app to see it here.</string>
+
+    <!-- Toasts -->
+    <string name="toast_permission_required">Please grant Notification Listener permission first.</string>
+    <string name="toast_notification_removed">Notification removed from: %1$s</string>
+
+    <!-- Dialog -->
+    <string name="dialog_detail_title">Notification Details</string>
+
+    <!-- Badges -->
+    <string name="badge_ongoing">ONGOING</string>
+</resources>

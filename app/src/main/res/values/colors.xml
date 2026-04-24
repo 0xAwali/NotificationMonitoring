@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#42A5F5</color>
+    <color name="colorWarning">#E65100</color>
+    <color name="colorSuccess">#2E7D32</color>
+    <color name="colorError">#C62828</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textHint">#BDBDBD</color>
+
+    <color name="divider">#E0E0E0</color>
+    <color name="statusActive">#2E7D32</color>
+    <color name="statusIdle">#616161</color>
+    <color name="badgeOngoing">#1565C0</color>
+</resources>
